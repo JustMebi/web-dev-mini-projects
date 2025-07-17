@@ -15,3 +15,5 @@ Projects:
 
 1. 01 - Dark Mode Toggle
    A simple theme switcher using HTML, CSS, and JavaScript.
+2. 02 - Calculator  
+   A clean, responsive calculator UI with basic math operations.
