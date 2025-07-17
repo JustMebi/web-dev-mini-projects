@@ -9,5 +9,4 @@ This is a growing collection of small front-end projects I've built to practice 
 3. Responsive Pricing Table – Built with Flexbox
 4. Random Quote Generator – Fetches quotes using API
 
-
 Each project is self-contained in its own folder. Feel free to explore and clone.
