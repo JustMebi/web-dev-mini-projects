@@ -19,3 +19,5 @@ Projects:
    A clean, responsive calculator UI with basic math operations.
 3. 03 - Random Quote Generator  
    Fetches a new motivational quote from an API and displays it with a stylish UI.
+4. 04 - To-Do List App  
+   A simple task manager that lets you add, complete, and remove tasks interactively.
