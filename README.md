@@ -10,3 +10,8 @@ This is a growing collection of small front-end projects I've built to practice 
 4. Random Quote Generator – Fetches quotes using API
 
 Each project is self-contained in its own folder. Feel free to explore and clone.
+
+Projects:
+
+1. 01 - Dark Mode Toggle
+   A simple theme switcher using HTML, CSS, and JavaScript.
